@@ -1,0 +1,16 @@
+{
+  "name": "meeti",
+  "version": "1.0.0",
+  "description": "Practica boostrap with SASS",
+  "license": "ISC",
+  "author": "Frank Carpio",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "compilar:sass": "sass --watch src/scss:build/css"
+  },
+  "devDependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.85.1"
+  }
+}

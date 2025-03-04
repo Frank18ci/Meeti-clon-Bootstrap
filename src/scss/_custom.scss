@@ -1,0 +1,13 @@
+
+// Reescribir variables de bootstrap
+$rojo: #F34F51;
+$verde: #0098AE;
+$oscuro: #212121;
+
+$primary: $rojo;
+$secondary: $verde;
+$dark: $oscuro;
+
+// Importar bootstrap
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
